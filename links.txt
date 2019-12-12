@@ -1,0 +1,9 @@
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+
+https://medium.com/@SeoJaeDuk/basic-data-cleaning-engineering-session-twitter-sentiment-data-b9376a91109b
+
+https://hackernoon.com/text-processing-and-sentiment-analysis-of-twitter-data-22ff5e51e14c
+
+https://pypi.org/project/tweet-preprocessor/
+
+https://monkeylearn.com/blog/sentiment-analysis-of-twitter/
